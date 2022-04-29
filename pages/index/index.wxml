@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="usermotto">
+    <button bindtap="getJlsAuthCode">获取 authCode </button>
+  </view>
+</view>
